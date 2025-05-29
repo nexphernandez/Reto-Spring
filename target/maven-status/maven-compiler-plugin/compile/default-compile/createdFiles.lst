@@ -1,0 +1,9 @@
+es/ies/puerto/tarea/controller/UserController.class
+es/ies/puerto/tarea/model/Rol.class
+es/ies/puerto/tarea/repository/RolRepository.class
+es/ies/puerto/tarea/service/UserService.class
+es/ies/puerto/tarea/repository/UserRepository.class
+es/ies/puerto/tarea/model/User.class
+es/ies/puerto/tarea/TareaApplication.class
+es/ies/puerto/tarea/controller/RolController.class
+es/ies/puerto/tarea/service/RolService.class
